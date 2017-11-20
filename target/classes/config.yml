@@ -1,0 +1,8 @@
+cost_distance: 100
+cost_time: 100
+console_output: false
+player_messages: true
+player_message_start: You spread your wings, have fun and don't forget to eat!
+player_message_landed: You landed.
+player_message_no_food: You are too hungry to fly!
+player_message_no_food_while_flying: You are too hungry to fly, you had to fold your wings.
